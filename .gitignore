@@ -1,4 +1,4 @@
-./public
-./.vagrant
-./.log
-./log
+public
+.vagrant
+*.log
+log

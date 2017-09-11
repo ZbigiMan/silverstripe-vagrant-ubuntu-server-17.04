@@ -1,9 +1,9 @@
 # silverstripe-vagrant-ubuntu-server-17.04
 Installing SilverStripe on xenji/ubuntu-17.04-server via vagrant
 
-## Dependecies
+## Dependencies
 
-Install [vagrant](https://www.vagrantup.com/downloads.html) 
+[vagrant](https://www.vagrantup.com/downloads.html) 
 
 ## Start
 ```bash
